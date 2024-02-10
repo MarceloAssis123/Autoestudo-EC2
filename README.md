@@ -24,3 +24,16 @@ Depois de instalar o WSL2 vá na aba da amazon de se conectar à ela e depois v�
 
 <img src='./image/Terminal-Linux-Conectado-ao-EC2.png'>
 
+## Resultados
+
+Dashboard do console AWS com a instância criada:
+
+<img src='./image/Console-aws-mostrando-a-instancia.png'>
+
+Terminal linux com a conexão SSH realizada:
+
+<img src='./image/Terminal-Linux-Conectado-ao-EC2.png'>
+
+## Conclusão
+
+Portanto foi possível criar uma instância EC2 na aws e realizar uma conexão bem sucedida nela por meio de sua criação no console da AWS e a conexão SSH usando o terminal linux pelo o WSL2.
